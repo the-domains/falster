@@ -2,6 +2,7 @@ name: Falster
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.49844
+title: Falster
 cta:
   domain: null
   bucket: null
